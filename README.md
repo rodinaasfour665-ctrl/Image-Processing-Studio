@@ -72,11 +72,6 @@ project/
 
 ## Screenshots
 
-*(Add screenshots of the application here)*
+**
 
-## Future Improvements
 
-- Real-time preview toggle
-- Batch processing mode
-- Plugin architecture for custom filters
-- Undo/redo history stack
