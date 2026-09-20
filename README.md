@@ -70,8 +70,6 @@ project/
 - **Canny**: Gaussian → gradients → NMS → hysteresis thresholding
 - **Morphology**: structuring element (SE) applied per pixel neighborhood
 
-## Screenshots
 
-**
 
 
