@@ -1,3 +1,4 @@
+
 # Advanced Image Processing Studio
 
 A fully functional desktop image processing application built for CS303.
